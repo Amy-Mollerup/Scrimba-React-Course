@@ -6,6 +6,9 @@ Quick start:
 $ yarn # npm install
 $ yarn build # npm run build
 ````
+## Deployment
+
+You can find my project deployed here through Netlify: https://62ffeaf9139e41320de521eb--sweet-sprite-2f7903.netlify.app/
 
 ## Development
 
