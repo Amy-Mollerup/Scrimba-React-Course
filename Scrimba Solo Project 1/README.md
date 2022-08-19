@@ -1,4 +1,4 @@
-# co1964202bc90edfebcbdeb38
+# Scrimba Solo Project 1
 
 Quick start:
 
@@ -6,6 +6,10 @@ Quick start:
 $ yarn # npm install
 $ yarn build # npm run build
 ````
+## Deployment
+
+You can find my project deployed here through Netlify: https://resplendent-crostata-8746fd.netlify.app/
+
 
 ## Development
 
