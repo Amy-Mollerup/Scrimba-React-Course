@@ -1,4 +1,4 @@
-Scrimba Solo Project 1
+# Scrimba Solo Project 1
 
 Quick start:
 
